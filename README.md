@@ -6,6 +6,8 @@
 * Buy Raspberry Pi Zero 2 W
    * https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
    * Your tiny, tiny $15 computer
+* Getting Started with the Raspberry Pi Zero 2 W
+  * https://learn.sparkfun.com/tutorials/getting-started-with-the-raspberry-pi-zero-2-w/all
 
 ---
 * Raspberry Pi OS with desktop and recommended software
